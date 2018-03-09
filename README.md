@@ -25,8 +25,6 @@
 > - Raspberry Pi Board
 > - Jetson TK1 Board (Data Processing Oriented Computing)
 
-![alt text][uno]
-
 **이론 수업 스케줄 (Schedule)**
  1.	임베디드 시스템 설계 개요
     - 임베디드 시스템 개요 및 유헬스
@@ -82,5 +80,6 @@
 >
 > 프로젝트는 2-3인 팀 프로젝트를 진행하며, 각 참여자는 자신의 역활에 대해서 분명히 규정하고 발표 시에 참여 부분에 대한 질문에 대답해야한다.
 
+![alt text][uno]
 
 [uno]: https://github.com/jeonggunlee/Embedded-System-Design/blob/master/images/uno.jpg "Arduino Uno"
