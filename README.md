@@ -4,7 +4,7 @@
 ## (오픈소스 기반 임베디드 시스템 설계 - 2018 1학기)
 
 **소개**
-> - 교수: 이정근 (jeonggun.lee (A) hallym.ac.kr, 033-248-2312 / 010-3840-6765)
+> - 교수: 이정근 (jeonggun.lee (A) hallym.ac.kr, 033-248-2312)
 > - 공동참여교수: 이덕영 (riverlike (a) hallym.ac.kr)
 > - 조교: 민재홍 (woghd6811@hallym.ac.kr, BIT 연구실)
 
@@ -35,52 +35,50 @@
  2.	아두이노를 이용한 임베디드 설계 전략
     - 아두이노를 이용한 제어 / LED 제어 / SWITCH 사용 / 7 Segment
     - 가변 저항 읽기 / 조도 센서 읽기 / 모터 제어하기 / 적외선 / 블루투스 통신
-   
- 3.	아두이노를 이용한 임베디드 설계 전략
-    - 아두이노를 이용한 제어 / LED 제어 / SWITCH 사용 / 7 Segment
-    - 가변 저항 읽기 / 조도 센서 읽기 / 모터 제어하기 / 적외선 / 블루투스 통신
-   
- 4.	아두이노를 이용한 IoT 노드 설계
+  
+ 3.	아두이노를 이용한 IoT 노드 설계
  
- 5. 임베디드 기초 이론 강의 1
+ 4. 임베디드 기초 이론 강의 1
     - 임베디드 시스템 핵심 이론
     
- 6. 임베디드 기초 이론 강의 2
-    - 임베디드 시스템 핵심 이론	 아두이노 & 센서 실습
+ 5. 임베디드 기초 이론 강의 2
+    - 임베디드 시스템 핵심 이론
     
- 7.	임베디드 기초 이론 강의 3
-    - 임베디드 시스템 핵심 이론	 *  프로젝트 제안서
+ 6.	임베디드 기초 이론 강의 3
+    - 임베디드 시스템 핵심 이론
     
- 8.	Midterm Exam (중간고사)	
+ 7.	Midterm Exam (중간고사)	
  
- 9.	라즈베리 파이
+ 8.	라즈베리 파이
     - GPIO 구동
     - sysfs의 직접 제어 및 Python을 이용한 제어
     - C 언어를 이용한 제어
     
- 10.	라즈베리 파이
+ 9.	라즈베리 파이
     - 디바이스 드라이버 1	 라즈베리 파이 실습
     
- 11.	라즈베리 파이
+ 10.	라즈베리 파이
     - 디바이스 드라이버 2
     - 병렬 프로그래밍: OpenMP 소개 1 	라즈베리 파이 실습
     
- 12.	라즈베리 파이
+ 11.	라즈베리 파이
     - 병렬 프로그래밍: OpenMP 소개 2	 라즈베리 파이 실습
     
- 13.	Jetson TK1 임베디드 GPIO: GPIO 제어를 통한 LED 깜빡이기 (PDF)
+ 12.	Jetson TK1 임베디드 GPIO: GPIO 제어를 통한 LED 깜빡이기 (PDF)
     - sysfs의 직접 제어 및 Python을 이용한 제어
     - C 언어를 이용한 제어
     - http://www.youtube.com/watch?v=SaIpz00lE84
     
- 14.	Parallel Programming on Jetson TK1: GPU Architecture & CUDA Programming	 프로젝트 진행
+ 13.	Parallel Programming on Jetson TK1: GPU Architecture & CUDA Programming	 프로젝트 진행
  
- 15.	Final Exam (기말 고사)	 프로젝트 진행
+ 14.	Final Exam (기말 고사)	 프로젝트 진행
  
- 16.	Project Final Presentation (프로젝트 최종 발표)	 프로젝트 진행
+ 15.	Project Final Presentation (프로젝트 최종 발표)	 프로젝트 진행
 
 **유의사항**
-> 실습 수업은 아두이노 중심의 실습과 프로젝트 개발에 초점을 두고 진행.
+> 실습 수업은 아두이노/Microcontroller/RaspberryPi 중심의 실습과 프로젝트 개발에 초점을 두고 진행.
+> 충분한 개발 능력을 겸비한 학생은 Nvidia의 Jetson 보드를 활용한 프로젝트를 진행
+>    - GPU에 기반한 머신러닝 코드 수행 가능
 > 프로젝트는 2-3인 팀 프로젝트를 진행하며, 각 참여자는 자신의 역활에 대해서 분명히 규정하고 발표 시에 참여 부분에 대한 질문에 대답해야한다.
 
 
