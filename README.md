@@ -81,5 +81,9 @@
 > 프로젝트는 2-3인 팀 프로젝트를 진행하며, 각 참여자는 자신의 역활에 대해서 분명히 규정하고 발표 시에 참여 부분에 대한 질문에 대답해야한다.
 
 ![alt text][uno]
+![alt text][pi]
+![alt text][jetson]
 
 [uno]: https://github.com/jeonggunlee/Embedded-System-Design/blob/master/images/uno.jpg "Arduino Uno"
+[pi]: https://github.com/jeonggunlee/Embedded-System-Design/blob/master/images/pi.png
+[jetson]: https://github.com/jeonggunlee/Embedded-System-Design/blob/master/images/jetson.jpg
