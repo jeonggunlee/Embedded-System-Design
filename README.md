@@ -70,7 +70,7 @@
     - C 언어를 이용한 제어
     - http://www.youtube.com/watch?v=SaIpz00lE84
     
- 13. Parallel Programming on Jetson TK1: GPU Architecture & CUDA Programming
+ 13. Parallel Programming on Jetson TK1: [GPU Architecture & CUDA Programming](https://www.youtube.com/watch?v=nRSxp5ZKwhQ)
  
  14. Final Exam (기말 고사)	 프로젝트 진행
  
