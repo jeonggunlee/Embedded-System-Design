@@ -21,9 +21,9 @@
 > 과제 및 프로첵느는 반드시 Github를 통하여 제출
 
 **실습장비**
-> - Arduino Board (Control Oriented Computing)
-> - Raspberry Pi Board
-> - Jetson TK1 Board (Data Processing Oriented Computing)
+> - [Arduino Board](https://ko.wikipedia.org/wiki/%EC%95%84%EB%91%90%EC%9D%B4%EB%85%B8) (Control Oriented Computing)
+> - [Raspberry Pi](https://ko.wikipedia.org/wiki/%EB%9D%BC%EC%A6%88%EB%B2%A0%EB%A6%AC_%ED%8C%8C%EC%9D%B4) Board
+> - [Jetson TK1 Board](https://elinux.org/Jetson_TK1) (Data Processing Oriented Computing)
 
 **이론 수업 스케줄 (Schedule)**
  1.	임베디드 시스템 설계 개요
