@@ -19,6 +19,7 @@
       
 **요구사항**
 > 과제 및 프로첵느는 반드시 **Github**를 통하여 제출
+> [초보자를 위한 Github 사용법](https://www.youtube.com/watch?v=JEY3X64gX4Q&t=552s)
 
 **실습장비**
 > - [Arduino Board](https://ko.wikipedia.org/wiki/%EC%95%84%EB%91%90%EC%9D%B4%EB%85%B8) (Control Oriented Computing)
