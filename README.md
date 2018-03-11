@@ -30,7 +30,7 @@
     - 임베디드 시스템 개요 및 유헬스
     - 아두이노 & 라즈베리파이 그리고 Jetson TK1 보드 소개
    
- 2.	아두이노를 이용한 임베디드 설계 전략
+ 2.	[아두이노를 이용한 임베디드 설계 전략](https://github.com/jeonggunlee/Embedded-System-Design/blob/master/02_embedded_arduino.pdf)
     - 아두이노를 이용한 제어 / LED 제어 / SWITCH 사용 / 7 Segment
     - 가변 저항 읽기 / 조도 센서 읽기 / 모터 제어하기 / 적외선 / 블루투스 통신
   
