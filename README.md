@@ -15,7 +15,6 @@
 **배우게 될 것~**
 >  1. 임베디드 시스템 이론 (임베디드 시스템의 특징 및 장점, 임베디드 프로그래밍, 인터럽트, 디바이스 드라이버)습득
 >  2. 다루기 쉬운 아두이노 부터 Jetson TK1 보드까지 실제 장치를 다룰수 있는 역량 습득
->
 >      - **GPIO** 다루기 및 센서 활용, 고성능 임베디드 보드에서 **임베디드 병렬프로그래밍** 등
       
 **요구사항**
@@ -29,12 +28,12 @@
 > - [Jetson TK1 Board](https://elinux.org/Jetson_TK1) (Data Processing Oriented Computing)
 
 **알림사항**
-> - 3월 12일: 기초 회로 부품들을 이번주 금요일 실습 시간에 나누어줄 계획입니다.
+> - 3월 12일: 기초 회로 부품들을 이번주 금요일(3월16일) 실습 시간에 나누어줄 계획입니다.
  
 
 **이론 수업 스케줄 (Schedule)**
  1. 임베디드 시스템 설계 개요
-    - 임베디드 시스템 개요
+    - 임베디드 시스템 개요: What is an embedded system and what are the special features of the system ?
     - 아두이노 & 라즈베리파이 그리고 Jetson TK1 보드 소개
    
  2. [아두이노를 이용한 임베디드 설계 전략](https://github.com/jeonggunlee/Embedded-System-Design/blob/master/02_embedded_arduino.pdf)
