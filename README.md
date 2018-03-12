@@ -28,6 +28,10 @@
 > - [Raspberry Pi](https://ko.wikipedia.org/wiki/%EB%9D%BC%EC%A6%88%EB%B2%A0%EB%A6%AC_%ED%8C%8C%EC%9D%B4) Board
 > - [Jetson TK1 Board](https://elinux.org/Jetson_TK1) (Data Processing Oriented Computing)
 
+**알림사항**
+> - 3월 12일: 기초 회로 부품들을 이번주 금요일 실습 시간에 나누어줄 계획입니다.
+ 
+
 **이론 수업 스케줄 (Schedule)**
  1. 임베디드 시스템 설계 개요
     - 임베디드 시스템 개요
