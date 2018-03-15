@@ -13,23 +13,23 @@
 > 본 수업에서는 학생들은 임베디드 시스템 설계에 대한 기초 이론을 배우고 간단한 임베디드 시스템 설계를 수행한다. 특히, 최근 임베디드 분야에서 빠른 프로토타입 제작에 많이 사용되고 있는 **아두이노**, **라즈베리파이**, 및 고성능 임베디드 시스템 **Jetson TK1** 보드를 이용하여 프로젝트를 진행하도록 한다. 아두이노는 최근에 큰 반향을 일으키고 있는 임베디드 오픈소스 플랫폼으로 다양한 자료와 함께 쉽게 원하는 시스템을 구축할 수 있어 인기가 많다. 라즈베리파이의 경우 보다 강력한 프로세싱 파워를 가지고 있으며, 리눅스 상에서 다양한 제어와 실습을 수행할 수 있어 효과적이다. 마지막으로 Nvidia의 Jetson Tk1 보드는 고성능 임베디드 보드로써 영상 처리와 같은 고속의 데이터 처리가 필요한 임베디드 응용에 효과적으로 사용될 수 있다. 따라서, 학생들은 필요한 요구 사항에 따라 선택적으로 구현 플랫폼을 선택하여 각자가 구현하고자 하는 임베디드 시스템을 구축할 수 있다.
 
 **배우게 될 것~**
->  1. 임베디드 시스템 이론 (임베디드 시스템의 특징 및 장점, 임베디드 프로그래밍, 인터럽트, 디바이스 드라이버)습득
->  2. 다루기 쉬운 아두이노 부터 Jetson TK1 보드까지 실제 장치를 다룰수 있는 역량 습득
->     - GPIO 다루기 및 센서 활용
->     - 고성능 임베디드 보드에서 **임베디드 병렬프로그래밍** 등
+  1. 임베디드 시스템 이론 (임베디드 시스템의 특징 및 장점, 임베디드 프로그래밍, 인터럽트, 디바이스 드라이버)습득
+  2. 다루기 쉬운 아두이노 부터 Jetson TK1 보드까지 실제 장치를 다룰수 있는 역량 습득
+     - GPIO 다루기 및 센서 활용
+     - 고성능 임베디드 보드에서 **임베디드 병렬프로그래밍** 등
       
 **요구사항**
-> 과제 및 프로첵느는 반드시 **Github**를 통하여 제출:
-> [초보자를 위한 Github 사용법](https://www.youtube.com/watch?v=JEY3X64gX4Q&t=552s)
-> [![초보자를 위한 Github 사용법](http://img.youtube.com/vi/JEY3X64gX4Q/0.jpg)](https://www.youtube.com/watch?v=JEY3X64gX4Q&t=552s) 
+ 과제 및 프로첵느는 반드시 **Github**를 통하여 제출:
+ [초보자를 위한 Github 사용법](https://www.youtube.com/watch?v=JEY3X64gX4Q&t=552s)
+ [![초보자를 위한 Github 사용법](http://img.youtube.com/vi/JEY3X64gX4Q/0.jpg)](https://www.youtube.com/watch?v=JEY3X64gX4Q&t=552s) 
 
 **실습장비**
-> - [Arduino Board](https://ko.wikipedia.org/wiki/%EC%95%84%EB%91%90%EC%9D%B4%EB%85%B8) (Control Oriented Computing)
-> - [Raspberry Pi](https://ko.wikipedia.org/wiki/%EB%9D%BC%EC%A6%88%EB%B2%A0%EB%A6%AC_%ED%8C%8C%EC%9D%B4) Board
-> - [Jetson TK1 Board](https://elinux.org/Jetson_TK1) (Data Processing Oriented Computing)
+ - [Arduino Board](https://ko.wikipedia.org/wiki/%EC%95%84%EB%91%90%EC%9D%B4%EB%85%B8) (Control Oriented Computing)
+ - [Raspberry Pi](https://ko.wikipedia.org/wiki/%EB%9D%BC%EC%A6%88%EB%B2%A0%EB%A6%AC_%ED%8C%8C%EC%9D%B4) Board
+ - [Jetson TK1 Board](https://elinux.org/Jetson_TK1) (Data Processing Oriented Computing)
 
 **알림사항**
-> - 3월 16일: 기초 회로 부품들을 이번주 금요일(3월16일) 실습 시간에 나누어줄 계획입니다.
+ - 3월 16일: 기초 회로 부품들을 이번주 금요일(3월16일) 실습 시간에 나누어줄 계획입니다.
  
 
 **이론 수업 스케줄 (Schedule)**
