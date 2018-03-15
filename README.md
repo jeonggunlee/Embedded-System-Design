@@ -28,7 +28,7 @@
 > - [Jetson TK1 Board](https://elinux.org/Jetson_TK1) (Data Processing Oriented Computing)
 
 **알림사항**
-> - 3월 12일: 기초 회로 부품들을 이번주 금요일(3월16일) 실습 시간에 나누어줄 계획입니다.
+> - 3월 16일: 기초 회로 부품들을 이번주 금요일(3월16일) 실습 시간에 나누어줄 계획입니다.
  
 
 **이론 수업 스케줄 (Schedule)**
