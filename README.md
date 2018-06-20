@@ -5,7 +5,6 @@
 
 **소개**
 > - 교수: 이정근 (jeonggun.lee (A) hallym.ac.kr, 033-248-2312)
-> - 공동참여교수: 이덕영 (riverlike (a) hallym.ac.kr)
 > - 조교: 민재홍 (woghd6811@hallym.ac.kr, BIT 연구실)
 
 **무엇을 배우는가?**
